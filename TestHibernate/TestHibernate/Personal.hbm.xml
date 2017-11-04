@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+    namespace="TestHibernate.DataEntity" assembly="TestHibernate">
+
+  <class name="Personal" table="personal">
+
+    <id name="Id">
+      <column name="ID" sql-type="bigint" not-null="true"/>
+      <generator class="native" />
+    </id>
+
+    <property name="Name">
+      <column name="name" sql-type="nvarchar" length="50" not-null="false" />
+    </property>
+    <property name="Tel">
+      <column name="tel" sql-type="nvarchar" length="50" not-null="false" />
+    </property>
+    <property name="Email">
+      <column name="email" sql-type="nvarchar" length="50" not-null="false" />
+    </property>
+    <property name="Birth">
+      <column name="birthday" sql-type="nvarchar" length="50" not-null="false" />
+    </property>
+  </class>
+
+</hibernate-mapping>

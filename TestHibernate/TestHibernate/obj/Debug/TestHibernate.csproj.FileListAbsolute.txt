@@ -1,0 +1,15 @@
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\bin\Debug\TestHibernate.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\bin\Debug\TestHibernate.exe
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\bin\Debug\TestHibernate.pdb
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\obj\Debug\TestHibernate.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\obj\Debug\TestHibernate.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\obj\Debug\TestHibernate.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\obj\Debug\TestHibernate.exe
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\obj\Debug\TestHibernate.pdb
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\obj\Debug\TestHibernate.Main.resources
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\bin\Debug\NHibernate.dll
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\bin\Debug\Iesi.Collections.dll
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\bin\Debug\NHibernate.pdb
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\bin\Debug\NHibernate.xml
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\bin\Debug\Iesi.Collections.pdb
+c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\bin\Debug\Iesi.Collections.xml
