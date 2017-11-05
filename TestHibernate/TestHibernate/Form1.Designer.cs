@@ -39,6 +39,9 @@
             this.btnOK = new System.Windows.Forms.Button();
             this.btnView = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
+            this.pnlItemBox = new System.Windows.Forms.Panel();
+            this.lblUnderLine = new System.Windows.Forms.Label();
+            this.pnlItemBox.SuspendLayout();
             this.SuspendLayout();
             // 
             // txtName
@@ -132,11 +135,33 @@
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
             // 
+            // pnlItemBox
+            // 
+            this.pnlItemBox.AutoScroll = true;
+            this.pnlItemBox.BackColor = System.Drawing.Color.White;
+            this.pnlItemBox.Controls.Add(this.lblUnderLine);
+            this.pnlItemBox.Location = new System.Drawing.Point(120, 40);
+            this.pnlItemBox.Name = "pnlItemBox";
+            this.pnlItemBox.Size = new System.Drawing.Size(620, 230);
+            this.pnlItemBox.TabIndex = 11;
+            this.pnlItemBox.Visible = false;
+            // 
+            // lblUnderLine
+            // 
+            this.lblUnderLine.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblUnderLine.Location = new System.Drawing.Point(5, 35);
+            this.lblUnderLine.Name = "lblUnderLine";
+            this.lblUnderLine.Size = new System.Drawing.Size(590, 2);
+            this.lblUnderLine.TabIndex = 0;
+            this.lblUnderLine.Text = "label1";
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(849, 393);
+            this.Controls.Add(this.pnlItemBox);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnView);
             this.Controls.Add(this.btnOK);
@@ -151,6 +176,7 @@
             this.Name = "Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.pnlItemBox.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -169,6 +195,8 @@
         private System.Windows.Forms.Button btnOK;
         private System.Windows.Forms.Button btnView;
         private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.Panel pnlItemBox;
+        private System.Windows.Forms.Label lblUnderLine;
     }
 }
 

@@ -13,3 +13,4 @@ c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\
 c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\bin\Debug\NHibernate.xml
 c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\bin\Debug\Iesi.Collections.pdb
 c:\users\asus\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\bin\Debug\Iesi.Collections.xml
+C:\Users\ASUS\documents\visual studio 2012\Projects\TestHibernate\TestHibernate\obj\Debug\TestHibernate.listItem.resources

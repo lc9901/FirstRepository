@@ -3,7 +3,6 @@
     namespace="TestHibernate.DataEntity" assembly="TestHibernate">
 
   <class name="Personal" table="personal">
-
     <id name="Id">
       <column name="ID" sql-type="bigint" not-null="true"/>
       <generator class="native" />
