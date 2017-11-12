@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2012\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.exe
+c:\users\asus\documents\visual studio 2012\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.pdb
+c:\users\asus\documents\visual studio 2012\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.Form1.resources
+c:\users\asus\documents\visual studio 2012\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.exe
+c:\users\asus\documents\visual studio 2012\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.pdb
