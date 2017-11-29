@@ -1,0 +1,8 @@
+d:\visual studio 2012\Projects\DemoStudy\DemoStudy\bin\Debug\DemoStudy.exe.config
+D:\visual studio 2012\Projects\DemoStudy\DemoStudy\bin\Debug\DemoStudy.exe
+D:\visual studio 2012\Projects\DemoStudy\DemoStudy\bin\Debug\DemoStudy.pdb
+D:\visual studio 2012\Projects\DemoStudy\DemoStudy\obj\Debug\DemoStudy.csprojResolveAssemblyReference.cache
+D:\visual studio 2012\Projects\DemoStudy\DemoStudy\obj\Debug\DemoStudy.Properties.Resources.resources
+D:\visual studio 2012\Projects\DemoStudy\DemoStudy\obj\Debug\DemoStudy.csproj.GenerateResource.Cache
+D:\visual studio 2012\Projects\DemoStudy\DemoStudy\obj\Debug\DemoStudy.exe
+D:\visual studio 2012\Projects\DemoStudy\DemoStudy\obj\Debug\DemoStudy.pdb
