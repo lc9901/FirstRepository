@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\WcfTest\bin\Debug\WcfTest.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\WcfTest\bin\Debug\WcfTest.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\WcfTest\bin\Debug\WcfTest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\WcfTest\bin\Debug\DataLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\WcfTest\bin\Debug\ImplementService.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\WcfTest\bin\Debug\DataLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\WcfTest\bin\Debug\ImplementService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\WcfTest\obj\Debug\WcfTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\WcfTest\obj\Debug\WcfTest.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\WcfTest\obj\Debug\WcfTest.pdb

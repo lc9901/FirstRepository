@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\DataLib\bin\Debug\DataLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\DataLib\bin\Debug\DataLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\DataLib\obj\Debug\DataLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WcfTest\DataLib\obj\Debug\DataLib.pdb

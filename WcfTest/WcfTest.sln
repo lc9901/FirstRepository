@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfTest", "WcfTest\WcfTest.csproj", "{CCA08706-15C8-4061-9374-0DC04BDE0B81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementService", "ImplementService\ImplementService.csproj", "{DAC6693E-99B0-4615-9C7E-A6AD9D1F4F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLib", "DataLib\DataLib.csproj", "{91C02696-B5FC-4241-A84C-A71E632AE0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA08706-15C8-4061-9374-0DC04BDE0B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA08706-15C8-4061-9374-0DC04BDE0B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA08706-15C8-4061-9374-0DC04BDE0B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA08706-15C8-4061-9374-0DC04BDE0B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC6693E-99B0-4615-9C7E-A6AD9D1F4F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC6693E-99B0-4615-9C7E-A6AD9D1F4F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC6693E-99B0-4615-9C7E-A6AD9D1F4F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC6693E-99B0-4615-9C7E-A6AD9D1F4F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C02696-B5FC-4241-A84C-A71E632AE0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C02696-B5FC-4241-A84C-A71E632AE0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C02696-B5FC-4241-A84C-A71E632AE0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C02696-B5FC-4241-A84C-A71E632AE0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

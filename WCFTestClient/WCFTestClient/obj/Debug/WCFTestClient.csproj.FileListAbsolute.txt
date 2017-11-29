@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WCFTestClient\WCFTestClient\bin\Debug\WCFTestClient.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\WCFTestClient\WCFTestClient\bin\Debug\WCFTestClient.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WCFTestClient\WCFTestClient\bin\Debug\WCFTestClient.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WCFTestClient\WCFTestClient\bin\Debug\DataLib.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WCFTestClient\WCFTestClient\bin\Debug\DataLib.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WCFTestClient\WCFTestClient\obj\Debug\WCFTestClient.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\WCFTestClient\WCFTestClient\obj\Debug\WCFTestClient.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WCFTestClient\WCFTestClient\obj\Debug\WCFTestClient.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WCFTestClient\WCFTestClient\obj\Debug\WCFTestClient.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\WCFTestClient\WCFTestClient\obj\Debug\WCFTestClient.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WCFTestClient\WCFTestClient\obj\Debug\WCFTestClient.pdb
